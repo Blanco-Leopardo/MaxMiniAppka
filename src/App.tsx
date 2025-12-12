@@ -16,7 +16,7 @@ function App() {
   const [error, setError] = useState('');
   
   // URL вашего бэкенда Node.js
-  const API_URL = 'https://rude-hands-wear.loca.lt'; 
+  const API_URL = 'https://quiet-places-float.loca.lt'; 
 
   useEffect(() => {
     setLoading(true);
